@@ -8,7 +8,7 @@ project_name: "explore_assistant_shiva"
 # }
 
 application: explore_assistant {
-  label: "Explore Assistant"
+  label: "Explore Assistant - Looker Project Matrix"
   #url: "https://localhost:8080/bundle.js"
    file: "bundle.js"
   entitlements: {
